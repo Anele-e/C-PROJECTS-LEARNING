@@ -1,2 +1,2 @@
-# ROCK_PAPER_SCISSOR_C
+# Learning C programming languge doing projects
 Clearn
